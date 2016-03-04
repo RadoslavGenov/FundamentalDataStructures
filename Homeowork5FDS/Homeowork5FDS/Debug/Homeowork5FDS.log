@@ -1,0 +1,4 @@
+﻿  HW5FDS.cpp
+c:\users\rados\desktop\homeowork5fds\homeowork5fds\kmp.h(30): warning C4018: '<=': signed/unsigned mismatch
+c:\users\rados\desktop\homeowork5fds\homeowork5fds\kmp.h(39): warning C4018: '<': signed/unsigned mismatch
+  Homeowork5FDS.vcxproj -> C:\Users\rados\Desktop\Homeowork5FDS\Debug\Homeowork5FDS.exe
