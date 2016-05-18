@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Homework9.cpp
+Homework9.obj : error LNK2001: unresolved external symbol "private: static int character::first" (?first@character@@0HA)
+C:\Users\rados\Desktop\Radoslav Genov Homework9FDS\Project2\Debug\Homework9.exe : fatal error LNK1120: 1 unresolved externals

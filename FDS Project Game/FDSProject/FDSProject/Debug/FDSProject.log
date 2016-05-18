@@ -1,0 +1,3 @@
+﻿  Project.cpp
+c:\users\rados\desktop\fds project game\fdsproject\fdsproject\project.cpp(93): warning C4101: 'read': unreferenced local variable
+  FDSProject.vcxproj -> C:\Users\rados\Desktop\FDS Project Game\FDSProject\Debug\FDSProject.exe

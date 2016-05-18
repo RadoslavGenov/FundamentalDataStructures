@@ -1,0 +1,6 @@
+﻿  Project.cpp
+c:\users\rados\desktop\fds project game\fdsproject\fdsproject\character.h(86): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rados\desktop\fds project game\fdsproject\fdsproject\quicksort.h(26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rados\desktop\fds project game\fdsproject\fdsproject\quicksort.h(30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rados\desktop\fds project game\fdsproject\fdsproject\project.cpp(188): warning C4715: 'chooseCharacter': not all control paths return a value
+  FDSProject.vcxproj -> C:\Users\rados\Desktop\FDS Project Game\FDSProject\x64\Debug\FDSProject.exe

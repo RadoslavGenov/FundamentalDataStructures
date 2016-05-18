@@ -1,0 +1,5 @@
+﻿  TreeComparison.cpp
+c:\users\rados\desktop\homework 7\homework 7\treecomparison.cpp(354): error C2065: 'countBST': undeclared identifier
+c:\users\rados\desktop\homework 7\homework 7\treecomparison.cpp(355): error C2065: 'countAVL': undeclared identifier
+c:\users\rados\desktop\homework 7\homework 7\treecomparison.cpp(356): error C2065: 'countBTN': undeclared identifier
+c:\users\rados\desktop\homework 7\homework 7\treecomparison.cpp(357): error C2065: 'countBTJ': undeclared identifier
